@@ -7,4 +7,8 @@ Creating a new branch is quick and test.
 修改readme
 添加一个标记
 
+<<<<<<< Updated upstream
 dev分支当作master的热修复
+=======
+我要在这里修改 test
+>>>>>>> Stashed changes
